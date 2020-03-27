@@ -5,6 +5,5 @@ def mario
 end
 
 def toadstool
-mario
   puts status
 end
